@@ -7,36 +7,12 @@
 - 📫 How to reach me: samsunnaharsrity@gmali.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love Code
-- 
+  
 👋 Hello, I’m Samsun Nahar
 
 I am a dedicated and detail-oriented Web Developer with a strong passion for building scalable, responsive, and user-centric web applications. I specialize in transforming complex ideas into clean, efficient, and maintainable digital solutions while adhering to modern web standards and best practices.
 
 With a solid foundation in HTML, CSS, and JavaScript, I focus on crafting intuitive user interfaces, optimizing performance, and ensuring cross-browser compatibility. I value clean code, structured workflows, and continuous improvement through real-world project experience.
-
-🔹 Core Expertise
-
-Responsive and accessible web development
-
-Frontend architecture and UI implementation
-
-Template customization and performance optimization
-
-Version control, collaboration, and workflow management using Git & GitHub
-
-🔹 Professional Philosophy
-
-I strongly believe that high-quality web development is not only about functionality, but also about clarity, usability, and long-term maintainability. I approach every project with a problem-solving mindset and a commitment to delivering reliable and scalable solutions.
-
-🔹 Continuous Growth
-
-I am actively advancing my expertise in modern JavaScript, frontend frameworks, and full-stack development concepts to stay aligned with evolving industry standards.
-
-🎯 Career Objective
-
-My long-term goal is to grow into a proficient Full-Stack Web Developer and contribute to impactful, production-level projects that create real value for users and businesses.
-
-📫 Open to collaboration, learning opportunities, and professional growth.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samsunnahar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samsunnahar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samsunnahar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@samsunnahar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samsunnaharsrity@gmail.com) 
