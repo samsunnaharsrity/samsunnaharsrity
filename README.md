@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner(2).png" width="100%" />
+</p>
+
 ## Hi there 👋
 - 🔭 I’m currently working on Wev Development Projects
 - 🌱 I’m currently learning React.js
